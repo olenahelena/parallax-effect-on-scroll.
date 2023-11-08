@@ -1,39 +1,34 @@
-# Frontend Mentor - Newsletter sign-up form with success message solution
+# Awesome parallax effect on scroll
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+During this task, I worked with CSS animations as well as animations in JavaScript. It was interesting to learn new tricks in JS, and I will definitely implement pieces of code from this task in my next projects. 
 
 ## Table of contents
 
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  - [Screenshot](#screenshot)
 
 ### The challenge
 
 Users should be able to:
 
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
+- See a parallax effect on scroll
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](screenshot.png)
 
 ### Links
 
-- Solution URL: (https://github.com/olenahelena/Newsletter_sign-up_form)
-- Live Site URL: (https://magnificent-churros-65aa71.netlify.app/)
+- Solution URL: (https://github.com/olenahelena/parallax-effect-on-scroll.)
+- Live Site URL: (https://scintillating-medovik-3b04a2.netlify.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- JS
+- SCSS custom properties
+- JavaScript
+
+### Screenshot
+
+![](screenshot.png)
